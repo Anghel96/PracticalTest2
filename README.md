@@ -1,1 +1,1 @@
-# PracticalTest2
+Calugareanu Anghel 341C2
